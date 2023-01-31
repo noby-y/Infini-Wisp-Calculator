@@ -16,13 +16,14 @@ It is recomended to have a decent CPU to calcualtion time.
 
 ## Features
 - Outputs all possible permutations of modifier set [^1]
-- Allows to enter a range of lifetime values to account for lifetime randomness [^2]
+- Supports a range of lifetime values as input to account 
+for lifetime randomness [^2]
+- 
 
 ## How to use
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
+Download `Release.zip`, unpack,
+open the folder and run `WispCalculator.exe`.
 
 
 ## TODO
@@ -30,7 +31,7 @@ Provide various use cases and code examples here.
 - [x] Output into a CSV file
 - [ ] Selection through modifier bans
     - allow to ban certain modifiers to only output specific permutations
-- [ ] Negative lifetime values
+- [ ] Support for negative lifetime values
 - [ ] Higher *valid for calculation* max lifetime 
     - current highest lifetime decrease -> 7,200
 
