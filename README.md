@@ -22,7 +22,7 @@ for lifetime randomness [^2]
 
 1. Download `Release.zip`
 2. Unpack and open the folder
-3 Run `WispCalculator.exe` for console app
+3. Run `WispCalculator.exe` for console app
     - Run `WispCalculatorCSV.bat` for CSV output
 ## TODO
 - [x] Use lifetime ranges
