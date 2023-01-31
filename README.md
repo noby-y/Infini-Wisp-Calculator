@@ -11,7 +11,7 @@
 ## General Information
 
 This is a *brutefore* calculator of infini-wisps for Noita. 
-It is recomended to have a decent CPU to calcualtion time.
+It is recomended to have a decent CPU to reduce calculation time.
 
 ## Features
 - Outputs all possible permutations of modifier set [^1]
