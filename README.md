@@ -13,7 +13,6 @@
 This is a *brutefore* calculator of infini-wisps for Noita. 
 It is recomended to have a decent CPU to calcualtion time.
 
-
 ## Features
 - Outputs all possible permutations of modifier set [^1]
 - Supports a range of lifetime values as input to account 
@@ -22,9 +21,9 @@ for lifetime randomness [^2]
 
 ## How to use
 
-Download `Release.zip`, unpack,
-open the folder and run `WispCalculator.exe`.
-
+1. Download `Release.zip`
+2. Unpack and open the folder
+3. Run `WispCalculator.exe`.
 
 ## TODO
 - [x] Use lifetime ranges
