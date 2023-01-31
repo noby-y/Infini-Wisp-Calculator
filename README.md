@@ -17,7 +17,6 @@ It is recomended to have a decent CPU to calcualtion time.
 - Outputs all possible permutations of modifier set [^1]
 - Supports a range of lifetime values as input to account 
 for lifetime randomness [^2]
-- 
 
 ## How to use
 
