@@ -74,7 +74,7 @@ internal class Program
     }
     static void OutputCSV(spellSet[,] wispList, int minLifetime, int maxLifetime)
     {
-        using (StreamWriter file = new StreamWriter($"wisp from {minLifetime} to {maxLifetime}.csv"))
+        using (StreamWriter file = new StreamWriter($"wisp_list_from_{minLifetime}_to_{maxLifetime}.csv"))
         {
             file.Write("decrease, increase, chain, phasing, orbit/pingpong, spiral, count");
 
