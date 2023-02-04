@@ -43,7 +43,7 @@ Created by @Noby#3046 - you can find me in [official Noita discord](https://disc
 There are a total of 6 modifiers with different lifetime values 
 (orbit and ping-pong are the same)
 which adds up to 6 binary choices or `2^6 = 64` permutations 
-(some permutations are redundant and are only shown in a CSV).
+(some permutations are impossible and therefore redundant and are only shown in a CSV).
 
 [^2]: Some projectiles can spawn with a random lifetime from a certain range. 
 See [this](https://noita.wiki.gg/wiki/Guide_To_Infinite_Lifetime_Spells#Table_of_spells) 
