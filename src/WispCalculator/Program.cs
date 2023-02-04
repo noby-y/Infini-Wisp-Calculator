@@ -29,6 +29,18 @@ internal class Program
 
             if (minLifetime > maxLifetime || minLifetime < 0 || maxLifetime < 0) { Console.WriteLine("Invalid lifetime values! Try again"); goto min; };
 
+            if (args.Length > 0)
+            {
+                if(args.Contains("no_decrease"))    { }
+                if(args.Contains("no_increase"))    { }
+                if(args.Contains("no_chain"))       { }
+                if(args.Contains("no_phasing"))     { }
+                if(args.Contains("no_orbit"))       { }
+                if(args.Contains("no_spiral"))      { }
+            }
+
+
+
             if (maxLifetime > 1500)
                 maxMods = 60;
             if (maxLifetime > 2000)
@@ -66,6 +78,7 @@ internal class Program
                     Console.WriteLine($"Permutation #{s + 1}");
                     Console.WriteLine($"Count = {currPermutation.count}");
                     Console.WriteLine(currPermutation);
+                    Console.WriteLine();
                     possible = true;
                 }
             }
