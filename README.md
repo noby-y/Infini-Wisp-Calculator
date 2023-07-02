@@ -34,7 +34,7 @@ for lifetime randomness [^2]
     - current highest lifetime decrease -> 7,200
 
 ## Contact
-Created by @Noby#3046 - you can find me in [official Noita discord](https://discord.gg/noita)
+Created by @noby_y - you can find me in [official Noita discord](https://discord.gg/noita)
 
 
 ### [Back to the top](#infini-wisp-calculator) 
